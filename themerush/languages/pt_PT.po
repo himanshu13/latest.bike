@@ -1,0 +1,1570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rush v1.3\n"
+"POT-Creation-Date: 2013-08-20 10:54+0700\n"
+"PO-Revision-Date: 2013-08-20 10:54+0700\n"
+"Last-Translator: Themeloy <themeloy@gmail.com>\n"
+"Language-Team: Themeloy <themeloy@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "404"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:39
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../functions.php:103
+msgid "Home Sidebar"
+msgstr ""
+
+#: ../functions.php:112
+msgid "Center Sidebar"
+msgstr ""
+
+#: ../functions.php:121
+msgid "Last Sidebar"
+msgstr ""
+
+#: ../functions.php:130
+msgid "Top Ads Banner"
+msgstr ""
+
+#: ../functions.php:139
+msgid "Footer1 Sidebar"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer2 Sidebar"
+msgstr ""
+
+#: ../functions.php:157
+msgid "Footer3 Sidebar"
+msgstr ""
+
+#: ../functions.php:166
+msgid "Footer4 Sidebar"
+msgstr ""
+
+#: ../functions.php:216
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:216
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:231
+msgid "Post author"
+msgstr ""
+
+#: ../functions.php:237
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:243
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:248
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:252
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:311
+msgid "LAST"
+msgstr ""
+
+#: ../header.php:137
+msgid "Home"
+msgstr ""
+
+#: ../header.php:167 ../options.php:659
+msgid "Facebook"
+msgstr ""
+
+#: ../header.php:170 ../options.php:666
+msgid "Twitter"
+msgstr ""
+
+#: ../header.php:173
+msgid "Google+"
+msgstr ""
+
+#: ../header.php:176 ../options.php:694
+msgid "Pinterest"
+msgstr ""
+
+#: ../header.php:179
+msgid "RSS Feed"
+msgstr ""
+
+#: ../header.php:182
+msgid "Linked"
+msgstr ""
+
+#: ../header.php:190
+msgid "Search for:"
+msgstr ""
+
+#: ../header.php:191
+msgid "Search here"
+msgstr ""
+
+#: ../options.php:33
+msgid "Repeat"
+msgstr ""
+
+#: ../options.php:34
+msgid "Repeat X"
+msgstr ""
+
+#: ../options.php:35
+msgid "Repeat Y"
+msgstr ""
+
+#: ../options.php:36 ../inc/options-sanitize.php:234
+msgid "No Repeat"
+msgstr ""
+
+#: ../options.php:42
+msgid "left top"
+msgstr ""
+
+#: ../options.php:43
+msgid "left center"
+msgstr ""
+
+#: ../options.php:44
+msgid "left bottom"
+msgstr ""
+
+#: ../options.php:45
+msgid "right top"
+msgstr ""
+
+#: ../options.php:46
+msgid "center top"
+msgstr ""
+
+#: ../options.php:47
+msgid "center center"
+msgstr ""
+
+#: ../options.php:48
+msgid "center bottom"
+msgstr ""
+
+#: ../options.php:160
+msgid "Recently Posts"
+msgstr ""
+
+#: ../options.php:190
+msgid "General Setting"
+msgstr ""
+
+#: ../options.php:193
+msgid "Your website logo"
+msgstr ""
+
+#: ../options.php:198
+msgid "Your website favicon"
+msgstr ""
+
+#: ../options.php:204
+msgid "Box layout"
+msgstr ""
+
+#: ../options.php:205
+msgid "Enable box layout or full width layout in your template."
+msgstr ""
+
+#: ../options.php:211
+msgid "Disable responsive Design"
+msgstr ""
+
+#: ../options.php:212
+msgid "Enable or disable responsive layout."
+msgstr ""
+
+#: ../options.php:218
+msgid "Disable all review star"
+msgstr ""
+
+#: ../options.php:219
+msgid "Enable or disable all review star."
+msgstr ""
+
+#: ../options.php:225
+msgid "Disable sticky main menu"
+msgstr ""
+
+#: ../options.php:226
+msgid "Enable or disable sticky main menu."
+msgstr ""
+
+#: ../options.php:232
+msgid "Newsticker"
+msgstr ""
+
+#: ../options.php:233
+msgid "Enable or disable news ticker on top menu."
+msgstr ""
+
+#: ../options.php:238
+msgid "Number of Post in ticker"
+msgstr ""
+
+#: ../options.php:239
+msgid "Show number of post in news ticker."
+msgstr ""
+
+#: ../options.php:245
+msgid "News ticker category"
+msgstr ""
+
+#: ../options.php:246
+msgid "Choose category for news ticker."
+msgstr ""
+
+#: ../options.php:254
+msgid "Theme color"
+msgstr ""
+
+#: ../options.php:255
+msgid "Choose theme color for your template."
+msgstr ""
+
+#: ../options.php:261
+msgid "Google analytics code"
+msgstr ""
+
+#: ../options.php:262
+msgid "Script for google analytics traffic your website without <script> tags"
+msgstr ""
+
+#: ../options.php:268
+msgid "Bottom menu"
+msgstr ""
+
+#: ../options.php:269
+msgid "Enable or disable your bottom menu."
+msgstr ""
+
+#: ../options.php:274
+msgid "Top menu"
+msgstr ""
+
+#: ../options.php:275
+msgid "Enable or disable your top menu."
+msgstr ""
+
+#: ../options.php:281
+msgid "Latest update date"
+msgstr ""
+
+#: ../options.php:282
+msgid "Enable or disable Date on top left header."
+msgstr ""
+
+#: ../options.php:289
+msgid "Follow menu"
+msgstr ""
+
+#: ../options.php:290
+msgid "Enable or disable follow menu."
+msgstr ""
+
+#: ../options.php:296
+msgid "Footer copyright"
+msgstr ""
+
+#: ../options.php:297
+msgid "Enable or disable footer copyright."
+msgstr ""
+
+#: ../options.php:306
+msgid "Background"
+msgstr ""
+
+#: ../options.php:311
+msgid "Choose background option for your theme"
+msgstr ""
+
+#: ../options.php:353
+msgid "Background large Image"
+msgstr ""
+
+#: ../options.php:360
+msgid "Background color or background .png with color"
+msgstr ""
+
+#: ../options.php:385
+msgid "Layout"
+msgstr ""
+
+#: ../options.php:389
+msgid "Sidebar Center width 350px"
+msgstr ""
+
+#: ../options.php:390
+msgid "Enable or disable sidebar center width 350px in your template."
+msgstr ""
+
+#: ../options.php:396
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../options.php:397
+msgid "Layout for single post two sidebar or one sidebar."
+msgstr ""
+
+#: ../options.php:408
+msgid "Other post page"
+msgstr ""
+
+#: ../options.php:409
+msgid "Layout For category page, search page, not found page and tag page."
+msgstr ""
+
+#: ../options.php:423
+msgid "Menu color"
+msgstr ""
+
+#: ../options.php:427
+msgid "home-color"
+msgstr ""
+
+#: ../options.php:428
+msgid "home page border color menu."
+msgstr ""
+
+#: ../options.php:434
+msgid "color-1"
+msgstr ""
+
+#: ../options.php:435
+msgid "color class name \"color-1\" just add to menu class"
+msgstr ""
+
+#: ../options.php:441
+msgid "color-2"
+msgstr ""
+
+#: ../options.php:442
+msgid "color class name \"color-2\" just add to menu class"
+msgstr ""
+
+#: ../options.php:448
+msgid "color-3"
+msgstr ""
+
+#: ../options.php:449
+msgid "color class name \"color-3\" just add to menu class"
+msgstr ""
+
+#: ../options.php:455
+msgid "color-4"
+msgstr ""
+
+#: ../options.php:456
+msgid "color class name \"color-4\" just add to menu class"
+msgstr ""
+
+#: ../options.php:462
+msgid "color-5"
+msgstr ""
+
+#: ../options.php:463
+msgid "color class name \"color-5\" just add to menu class"
+msgstr ""
+
+#: ../options.php:469
+msgid "color-6"
+msgstr ""
+
+#: ../options.php:470
+msgid "color class name \"color-6\" just add to menu class"
+msgstr ""
+
+#: ../options.php:476
+msgid "color-7"
+msgstr ""
+
+#: ../options.php:477
+msgid "color class name \"color-7\" just add to menu class"
+msgstr ""
+
+#: ../options.php:483
+msgid "color-8"
+msgstr ""
+
+#: ../options.php:484
+msgid "color class name \"color-8\" just add to menu class"
+msgstr ""
+
+#: ../options.php:490
+msgid "color-9"
+msgstr ""
+
+#: ../options.php:491
+msgid "color class name \"color-9\" just add to menu class"
+msgstr ""
+
+#: ../options.php:497
+msgid "color-10"
+msgstr ""
+
+#: ../options.php:498
+msgid "color class name \"color-10\" just add to menu class"
+msgstr ""
+
+#: ../options.php:506
+msgid "Typography"
+msgstr ""
+
+#: ../options.php:510
+msgid "Header Font"
+msgstr ""
+
+#: ../options.php:511 ../options.php:519
+msgid "Header font family."
+msgstr ""
+
+#: ../options.php:518
+msgid "Header Google Font"
+msgstr ""
+
+#: ../options.php:526
+msgid "H1 Typography"
+msgstr ""
+
+#: ../options.php:527
+msgid "H1 Typography."
+msgstr ""
+
+#: ../options.php:533
+msgid "H2 Typography"
+msgstr ""
+
+#: ../options.php:534
+msgid "H2 Typography."
+msgstr ""
+
+#: ../options.php:540
+msgid "H3 Typography"
+msgstr ""
+
+#: ../options.php:541
+msgid "H3 Typography."
+msgstr ""
+
+#: ../options.php:547
+msgid "H4 Typography"
+msgstr ""
+
+#: ../options.php:548
+msgid "H4 Typography."
+msgstr ""
+
+#: ../options.php:554
+msgid "H5 Typography"
+msgstr ""
+
+#: ../options.php:555
+msgid "H5 Typography."
+msgstr ""
+
+#: ../options.php:561
+msgid "H6 Typography"
+msgstr ""
+
+#: ../options.php:562
+msgid "H6 Typography."
+msgstr ""
+
+#: ../options.php:569
+msgid "Paragraph Typography"
+msgstr ""
+
+#: ../options.php:570
+msgid "Paragraph Typography."
+msgstr ""
+
+#: ../options.php:579
+msgid "Blog"
+msgstr ""
+
+#: ../options.php:584
+msgid "Disable All review post"
+msgstr ""
+
+#: ../options.php:585
+msgid "Disable all review from post"
+msgstr ""
+
+#: ../options.php:591
+msgid "Disable Related post"
+msgstr ""
+
+#: ../options.php:592
+msgid "Disable related post below the post"
+msgstr ""
+
+#: ../options.php:597
+msgid "Hide date in related post"
+msgstr ""
+
+#: ../options.php:598
+msgid "Hide post date in related post"
+msgstr ""
+
+#: ../options.php:604 ../options.php:605
+msgid "Enable Feature Image on Post Content"
+msgstr ""
+
+#: ../options.php:611
+msgid "Number of related post"
+msgstr ""
+
+#: ../options.php:612
+msgid "Amount of post that you wnat to show in related post box"
+msgstr ""
+
+#: ../options.php:620
+msgid "Disable more in this category"
+msgstr ""
+
+#: ../options.php:621
+msgid "Disable more in this category below the post"
+msgstr ""
+
+#: ../options.php:626
+msgid "Hide post date in more in this category box"
+msgstr ""
+
+#: ../options.php:627
+msgid "Hide post date more in this category below the post"
+msgstr ""
+
+#: ../options.php:633
+msgid "Number of more in this category post"
+msgstr ""
+
+#: ../options.php:634
+msgid "Amount of post that you wnat to show in more in this category post box"
+msgstr ""
+
+#: ../options.php:641
+msgid "Hide Author Profile"
+msgstr ""
+
+#: ../options.php:642
+msgid "Hide author profile box"
+msgstr ""
+
+#: ../options.php:647
+msgid "Disable Next and Previous post"
+msgstr ""
+
+#: ../options.php:648
+msgid "Hide next and previous post in single post or article"
+msgstr ""
+
+#: ../options.php:655
+msgid "Social Media"
+msgstr ""
+
+#: ../options.php:660
+msgid "Facebook URL"
+msgstr ""
+
+#: ../options.php:667
+msgid "Twitter URL"
+msgstr ""
+
+#: ../options.php:673
+msgid "GooglePlus"
+msgstr ""
+
+#: ../options.php:674
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../options.php:680
+msgid "Google"
+msgstr ""
+
+#: ../options.php:681
+msgid "Google  URL"
+msgstr ""
+
+#: ../options.php:687
+msgid "RSS"
+msgstr ""
+
+#: ../options.php:688
+msgid "Feed URL"
+msgstr ""
+
+#: ../options.php:695
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../options.php:700
+msgid "LinkedIn"
+msgstr ""
+
+#: ../options.php:701
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../options.php:706
+msgid "Behance"
+msgstr ""
+
+#: ../options.php:707
+msgid "Behance URL"
+msgstr ""
+
+#: ../options.php:712
+msgid "Dribbble"
+msgstr ""
+
+#: ../options.php:713
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../options.php:718
+msgid "Evernote"
+msgstr ""
+
+#: ../options.php:719
+msgid "Evernote URL"
+msgstr ""
+
+#: ../options.php:724
+msgid "Grooveshark"
+msgstr ""
+
+#: ../options.php:725
+msgid "Grooveshark URL"
+msgstr ""
+
+#: ../options.php:730
+msgid "Instagram"
+msgstr ""
+
+#: ../options.php:731
+msgid "Instagram URL"
+msgstr ""
+
+#: ../options.php:736
+msgid "Vimeo"
+msgstr ""
+
+#: ../options.php:737
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../options.php:742
+msgid "WordPress"
+msgstr ""
+
+#: ../options.php:743
+msgid "WordPress URL"
+msgstr ""
+
+#: ../options.php:748
+msgid "Youtube"
+msgstr ""
+
+#: ../options.php:749
+msgid "Youtube URL"
+msgstr ""
+
+#: ../options.php:756
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: ../options.php:757
+msgid "Enable Facebook Share in single post"
+msgstr ""
+
+#: ../options.php:762
+msgid "Enable Twitter Share"
+msgstr ""
+
+#: ../options.php:763
+msgid "Enable Twitter Share in single post"
+msgstr ""
+
+#: ../options.php:768
+msgid "Enable GooglePlus Share"
+msgstr ""
+
+#: ../options.php:769
+msgid "Enable GooglePlus Share in single post"
+msgstr ""
+
+#: ../options.php:775
+msgid "Text"
+msgstr ""
+
+#: ../options.php:779
+msgid "Term Latest"
+msgstr ""
+
+#: ../options.php:780
+msgid "Latest News for news ticker"
+msgstr ""
+
+#: ../options.php:786
+msgid "Term Update"
+msgstr ""
+
+#: ../options.php:787
+msgid "Latest update"
+msgstr ""
+
+#: ../options.php:793
+msgid "Term Follow"
+msgstr ""
+
+#: ../options.php:794
+msgid "follow"
+msgstr ""
+
+#: ../options.php:800
+msgid "Term Related"
+msgstr ""
+
+#: ../options.php:801
+msgid "Related"
+msgstr ""
+
+#: ../options.php:807
+msgid "Term review"
+msgstr ""
+
+#: ../options.php:808
+msgid "Review"
+msgstr ""
+
+#: ../options.php:814
+msgid "Term more in this category"
+msgstr ""
+
+#: ../options.php:815
+msgid "More in this category"
+msgstr ""
+
+#: ../options.php:821
+msgid "Text Description on 404 Page / Not found page"
+msgstr ""
+
+#: ../options.php:822
+msgid "Text description on not found page"
+msgstr ""
+
+#: ../options.php:828 ../options.php:832
+msgid "Custom CSS"
+msgstr ""
+
+#: ../options.php:833
+msgid "Your CSS style go here. without symbols '&gt; ' or '&lt;'"
+msgstr ""
+
+#: ../options.php:840
+msgid "Custom CSS max screen 1190px"
+msgstr ""
+
+#: ../options.php:841 ../options.php:849 ../options.php:857 ../options.php:865
+msgid "Your CSS style go here. without symbol '&gt; ' or '&lt;'"
+msgstr ""
+
+#: ../options.php:848
+msgid "Custom CSS max screen 959px"
+msgstr ""
+
+#: ../options.php:856
+msgid "Custom CSS max screen 767px"
+msgstr ""
+
+#: ../options.php:864
+msgid "Custom CSS screen 480px to 767px"
+msgstr ""
+
+#: ../inc/options-framework.php:171 ../inc/options-framework.php:417
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/options-framework.php:203
+msgid "Clear"
+msgstr ""
+
+#: ../inc/options-framework.php:204
+msgid "Default"
+msgstr ""
+
+#: ../inc/options-framework.php:205
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/options-framework.php:279
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../inc/options-framework.php:313
+msgid "Default options restored."
+msgstr ""
+
+#: ../inc/options-framework.php:367
+msgid "Options saved."
+msgstr ""
+
+#: ../inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: ../inc/options-media-uploader.php:54 ../inc/options-media-uploader.php:107
+msgid "Upload"
+msgstr ""
+
+#: ../inc/options-media-uploader.php:56 ../inc/options-media-uploader.php:108
+msgid "Remove"
+msgstr ""
+
+#: ../inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../inc/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: ../inc/options-sanitize.php:235
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../inc/options-sanitize.php:236
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../inc/options-sanitize.php:237
+msgid "Repeat All"
+msgstr ""
+
+#: ../inc/options-sanitize.php:250
+msgid "Top Left"
+msgstr ""
+
+#: ../inc/options-sanitize.php:251
+msgid "Top Center"
+msgstr ""
+
+#: ../inc/options-sanitize.php:252
+msgid "Top Right"
+msgstr ""
+
+#: ../inc/options-sanitize.php:253
+msgid "Middle Left"
+msgstr ""
+
+#: ../inc/options-sanitize.php:254
+msgid "Middle Center"
+msgstr ""
+
+#: ../inc/options-sanitize.php:255
+msgid "Middle Right"
+msgstr ""
+
+#: ../inc/options-sanitize.php:256
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc/options-sanitize.php:257
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc/options-sanitize.php:258
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc/options-sanitize.php:271
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../inc/options-sanitize.php:272
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../inc/options-sanitize.php:346
+msgid "Normal"
+msgstr ""
+
+#: ../inc/options-sanitize.php:347
+msgid "Italic"
+msgstr ""
+
+#: ../inc/options-sanitize.php:348
+msgid "Bold"
+msgstr ""
+
+#: ../inc/options-sanitize.php:349
+msgid "Bold Italic"
+msgstr ""
+
+#: ../inc/upgrade.php:31
+msgid "Theme Options Media"
+msgstr ""
+
+#: ../inc/functions/filosofo-custom-image-sizes.php:179
+msgid "Could not read image size"
+msgstr ""
+
+#: ../inc/functions/filosofo-custom-image-sizes.php:184
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: ../inc/functions/filosofo-custom-image-sizes.php:217
+#: ../inc/functions/filosofo-custom-image-sizes.php:220
+#: ../inc/functions/filosofo-custom-image-sizes.php:226
+msgid "Resize path invalid"
+msgstr ""
+
+#: ../inc/functions/sidebar_generator.php:176
+#: ../inc/functions/sidebar_generator.php:199
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../inc/functions/sidebar_generator.php:230
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../inc/functions/sidebar_generator.php:280
+msgid "Select the custom sidebar, leave unselected to use the default sidebar"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/post.php:68
+#: ../inc/plugins/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../inc/plugins/meta-box/inc/fields/select-advanced.php:71
+msgid "Select a value"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:34
+msgid "Review and feature"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:70
+msgid "Review Summery Title"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:72
+msgid "Review Summer Title"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:74
+#: ../inc/plugins/meta-box/option/review.php:85
+#: ../inc/plugins/meta-box/option/review.php:100
+#: ../inc/plugins/meta-box/option/review.php:125
+#: ../inc/plugins/meta-box/option/review.php:151
+#: ../inc/plugins/meta-box/option/review.php:178
+#: ../inc/plugins/meta-box/option/review.php:204
+#: ../inc/plugins/meta-box/option/review.php:230
+#: ../inc/plugins/meta-box/option/review.php:256
+#: ../inc/plugins/meta-box/option/review.php:283
+#: ../inc/plugins/meta-box/option/review.php:309
+msgid " "
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:80
+msgid "Review Summery"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:96
+#: ../inc/plugins/meta-box/option/review.php:98
+#: ../inc/plugins/meta-box/option/review.php:103
+msgid "Review Criteria 1"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:121
+#: ../inc/plugins/meta-box/option/review.php:123
+msgid "Review Criteria 2"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:129
+#: ../inc/plugins/meta-box/option/review.php:155
+#: ../inc/plugins/meta-box/option/review.php:182
+#: ../inc/plugins/meta-box/option/review.php:208
+#: ../inc/plugins/meta-box/option/review.php:234
+#: ../inc/plugins/meta-box/option/review.php:260
+#: ../inc/plugins/meta-box/option/review.php:287
+#: ../inc/plugins/meta-box/option/review.php:312
+msgid "Review Rate"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:147
+#: ../inc/plugins/meta-box/option/review.php:149
+msgid "Review Criteria 3"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:174
+#: ../inc/plugins/meta-box/option/review.php:176
+msgid "Review Criteria 4"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:200
+#: ../inc/plugins/meta-box/option/review.php:202
+msgid "Review Criteria 5"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:226
+#: ../inc/plugins/meta-box/option/review.php:228
+msgid "Review Criteria 6"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:252
+#: ../inc/plugins/meta-box/option/review.php:254
+msgid "Review Criteria 7"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:279
+#: ../inc/plugins/meta-box/option/review.php:281
+msgid "Review Criteria 8"
+msgstr ""
+
+#: ../inc/plugins/meta-box/option/review.php:305
+#: ../inc/plugins/meta-box/option/review.php:307
+msgid "Review Criteria 9"
+msgstr ""
+
+#: ../inc/widget/ads-text.php:17
+msgid "For embed Ads: Google ads, Yahoo ads.."
+msgstr ""
+
+#: ../inc/widget/ads-text.php:19
+msgid "Themeloy: Embed Ads"
+msgstr ""
+
+#: ../inc/widget/ads-text.php:67 ../inc/widget/embed.php:66
+msgid "Title: "
+msgstr ""
+
+#: ../inc/widget/ads-text.php:69 ../inc/widget/embed.php:68
+msgid "Text: "
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:15
+msgid "4 Ads 125x125 for sidebar widget"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:17
+msgid "Themeloy: 4 Ads 125x125"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:93
+msgid "ADS125x125"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:98 ../inc/widget/bi-home-post.php:338
+#: ../inc/widget/carousel-post-categories.php:134
+#: ../inc/widget/fblikebox-widget.php:94 ../inc/widget/flickr-widget.php:70
+#: ../inc/widget/popular-post-widget.php:118
+#: ../inc/widget/recently-post-categories.php:133
+#: ../inc/widget/recently-post-home-grid-list-style.php:222
+#: ../inc/widget/review-widget.php:140 ../inc/widget/slider.php:143
+#: ../inc/widget/tab-post-home.php:176 ../inc/widget/triple-widget.php:280
+#: ../inc/widget/widget_recent_comments.php:83
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:103
+#: ../inc/widget/ads160x600-widget.php:71
+#: ../inc/widget/ads300x250-widget.php:71
+#: ../inc/widget/ads728x90-widget.php:67
+msgid "Link Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:108
+#: ../inc/widget/ads160x600-widget.php:76
+#: ../inc/widget/ads300x250-widget.php:76
+#: ../inc/widget/ads728x90-widget.php:72
+msgid "Image Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:113
+msgid "Link2 Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:118
+msgid "Image2 Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:123
+msgid "Link3 Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:128
+msgid "Image3 Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:133
+msgid "Link4 Url:"
+msgstr ""
+
+#: ../inc/widget/ads125x125-widget.php:138
+msgid "Image4 Url:"
+msgstr ""
+
+#: ../inc/widget/ads160x600-widget.php:16
+msgid "Ads 160x600 for sidebar widget"
+msgstr ""
+
+#: ../inc/widget/ads160x600-widget.php:18
+msgid "Themeloy: Ads 160x600"
+msgstr ""
+
+#: ../inc/widget/ads160x600-widget.php:66
+msgid "ADS 160"
+msgstr ""
+
+#: ../inc/widget/ads300x250-widget.php:16
+msgid "Ads 300x250 for sidebar widget"
+msgstr ""
+
+#: ../inc/widget/ads300x250-widget.php:18
+msgid "Themeloy: Ads 300x250"
+msgstr ""
+
+#: ../inc/widget/ads300x250-widget.php:66
+#: ../inc/widget/ads728x90-widget.php:62
+msgid "ADS 728"
+msgstr ""
+
+#: ../inc/widget/ads728x90-widget.php:15
+msgid "Ads 728x90 for sidebar widget"
+msgstr ""
+
+#: ../inc/widget/ads728x90-widget.php:17
+msgid "Themeloy: Ads 728x90"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:17
+msgid ""
+"Display two list of recent post entries from one or more categories in a "
+"form of 2 columns."
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:19
+msgid "Themeloy: 2 Columns Recently Post"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:117 ../inc/widget/bi-home-post.php:148
+#: ../inc/widget/bi-home-post.php:247 ../inc/widget/bi-home-post.php:276
+#: ../inc/widget/carousel-post-categories.php:92
+#: ../inc/widget/popular-post-widget.php:69
+#: ../inc/widget/recently-post-categories.php:80
+#: ../inc/widget/recently-post-home-grid-list-style.php:122
+#: ../inc/widget/recently-post-home-grid-list-style.php:162
+#: ../inc/widget/review-widget.php:104 ../inc/widget/tab-post-home.php:131
+#: ../inc/widget/triple-widget.php:100 ../inc/widget/triple-widget.php:159
+#: ../include/archive.php:58 ../include/cat.php:68
+#: ../include/single-post.php:16 ../include/single-post.php:216
+#: ../include/single-post.php:293
+msgid "<i class=\"icon-comments-alt\"></i> 0"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:117 ../inc/widget/bi-home-post.php:148
+#: ../inc/widget/bi-home-post.php:247 ../inc/widget/bi-home-post.php:276
+#: ../inc/widget/carousel-post-categories.php:92
+#: ../inc/widget/popular-post-widget.php:69
+#: ../inc/widget/recently-post-categories.php:80
+#: ../inc/widget/recently-post-home-grid-list-style.php:122
+#: ../inc/widget/recently-post-home-grid-list-style.php:162
+#: ../inc/widget/review-widget.php:104 ../inc/widget/tab-post-home.php:131
+#: ../inc/widget/triple-widget.php:100 ../inc/widget/triple-widget.php:159
+#: ../include/archive.php:58 ../include/cat.php:68
+#: ../include/single-post.php:16 ../include/single-post.php:216
+#: ../include/single-post.php:293
+msgid "<i class=\"icon-comments-alt\"></i> 1"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:117 ../inc/widget/bi-home-post.php:148
+#: ../inc/widget/bi-home-post.php:247 ../inc/widget/bi-home-post.php:276
+#: ../inc/widget/carousel-post-categories.php:92
+#: ../inc/widget/popular-post-widget.php:69
+#: ../inc/widget/recently-post-categories.php:80
+#: ../inc/widget/recently-post-home-grid-list-style.php:122
+#: ../inc/widget/recently-post-home-grid-list-style.php:162
+#: ../inc/widget/review-widget.php:104 ../inc/widget/tab-post-home.php:131
+#: ../inc/widget/triple-widget.php:100 ../inc/widget/triple-widget.php:159
+#: ../include/archive.php:58 ../include/cat.php:68
+#: ../include/single-post.php:16 ../include/single-post.php:216
+#: ../include/single-post.php:293
+msgid "<i class=\"icon-comments-alt\"></i> %"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:341
+msgid "Title for right column:"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:344
+#: ../inc/widget/carousel-post-categories.php:137
+#: ../inc/widget/recently-post-categories.php:136
+#: ../inc/widget/recently-post-home-grid-list-style.php:226
+#: ../inc/widget/review-widget.php:143 ../inc/widget/slider.php:146
+#: ../inc/widget/tab-post-home.php:179 ../inc/widget/triple-widget.php:283
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widget/bi-home-post.php:348 ../inc/widget/bi-home-post.php:373
+#: ../inc/widget/carousel-post-categories.php:140
+#: ../inc/widget/recently-post-categories.php:141
+#: ../inc/widget/recently-post-home-grid-list-style.php:232
+#: ../inc/widget/slider.php:151 ../inc/widget/tab-post-home.php:183
+msgid "Select categories to include in the recent posts list:"
+msgstr ""
+
+#: ../inc/widget/carousel-post-categories.php:17
+msgid ""
+"Display a list of recent post entries from one or more categories in a form "
+"of image carousel."
+msgstr ""
+
+#: ../inc/widget/carousel-post-categories.php:19
+msgid "Themeloy: Carousel Posts"
+msgstr ""
+
+#: ../inc/widget/embed.php:17
+msgid "For Responsive Embbed"
+msgstr ""
+
+#: ../inc/widget/embed.php:19
+msgid "Themeloy: Responsive Embed"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:15
+msgid "FB Like Box Widget For Sidebar"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:17
+msgid "Themeloy: FB Like Box"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:99
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:104
+msgid "Facebook Language:"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:111
+msgid "Show Faces"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:116
+msgid "Show Stream"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:121
+msgid "Show Header"
+msgstr ""
+
+#: ../inc/widget/fblikebox-widget.php:125
+msgid "Theme Color:"
+msgstr ""
+
+#: ../inc/widget/flickr-widget.php:15
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../inc/widget/flickr-widget.php:16
+msgid "Themeloy: Flickr"
+msgstr ""
+
+#: ../inc/widget/flickr-widget.php:75
+msgid "Flickr ID"
+msgstr ""
+
+#: ../inc/widget/flickr-widget.php:80
+msgid "Number:"
+msgstr ""
+
+#: ../inc/widget/hr-widget.php:17
+msgid ""
+"Add Line separate in content or sidebar: dotted, dashed, line, double, "
+"multidotted, none"
+msgstr ""
+
+#: ../inc/widget/hr-widget.php:19
+msgid "Themeloy: Line Break"
+msgstr ""
+
+#: ../inc/widget/hr-widget.php:55
+msgid "Div Class: dashed, none, line, dotted, double, multidotted"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:16
+msgid "Widget display the Subscribe box"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:17
+msgid "Themeloy: Newsletter"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:35
+msgid "Your Email"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:38
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:155
+msgid "feedburner name: (your name without http://feeds.feedburner.com/)"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:160
+msgid "Show Subscribe"
+msgstr ""
+
+#: ../inc/widget/newsletter.php:165
+msgid "Show Social network"
+msgstr ""
+
+#: ../inc/widget/popular-post-widget.php:16
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: ../inc/widget/popular-post-widget.php:18
+msgid "Themeloy: Popular Posts"
+msgstr ""
+
+#: ../inc/widget/popular-post-widget.php:114
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/widget/popular-post-widget.php:122
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/widget/recently-post-categories.php:17
+msgid "Display a list of recent post entries from choosing categories."
+msgstr ""
+
+#: ../inc/widget/recently-post-categories.php:19
+msgid "Themeloy: Recently Posts"
+msgstr ""
+
+#: ../inc/widget/recently-post-home-grid-list-style.php:17
+msgid ""
+"Display grid or list of recent post entries from one or more categories on "
+"front page."
+msgstr ""
+
+#: ../inc/widget/recently-post-home-grid-list-style.php:19
+msgid "Themeloy: Home Recently Posts Grid or list"
+msgstr ""
+
+#: ../inc/widget/recently-post-home-grid-list-style.php:128
+#: ../inc/widget/tab-post-home.php:135 ../include/archive.php:62
+#: ../include/cat.php:72
+msgid "Read More"
+msgstr ""
+
+#: ../inc/widget/recently-post-home-grid-list-style.php:230
+msgid "Display post feature below main post?"
+msgstr ""
+
+#: ../inc/widget/review-widget.php:17
+msgid "Add Recently review"
+msgstr ""
+
+#: ../inc/widget/review-widget.php:19
+msgid "Themeloy: Recently review"
+msgstr ""
+
+#: ../inc/widget/slider.php:17
+msgid ""
+"Display slider image from recent post entries from one or more categories."
+msgstr ""
+
+#: ../inc/widget/slider.php:19
+msgid "Themeloy: Image Slider Widget"
+msgstr ""
+
+#: ../inc/widget/tab-post-home.php:17
+msgid ""
+"Display a list of recent post entries from one or more categories in a Tab. "
+"This widget use with home content. Must choose at least 2 categories"
+msgstr ""
+
+#: ../inc/widget/tab-post-home.php:19
+msgid "Themeloy: Home Tab Widget"
+msgstr ""
+
+#: ../inc/widget/tab-post-home.php:54
+msgid "Please choose at least two categories"
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:17
+msgid "Triple widget: Recently, latest and Tags."
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:19
+msgid "Themeloy: Triple widget"
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:59
+msgid "Popular"
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:60
+msgid "Latest"
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:61
+msgid "Tag"
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:240
+#: ../inc/widget/widget_recent_comments.php:63
+msgid " ago"
+msgstr ""
+
+#: ../inc/widget/triple-widget.php:288
+msgid "Show comment tab"
+msgstr ""
+
+#: ../inc/widget/widget_recent_comments.php:15
+msgid "Displays the recent comments with thumbnails."
+msgstr ""
+
+#: ../inc/widget/widget_recent_comments.php:16
+msgid "Themeloy: Recent Comments"
+msgstr ""
+
+#: ../inc/widget/widget_recent_comments.php:86
+msgid "How many entries to display?"
+msgstr ""
+
+#: ../include/archive.php:9
+msgid "Archives by Month"
+msgstr "Arquivos por mês"
+
+#: ../include/archive.php:13
+msgid "Archives by Year"
+msgstr "Arquivos por ano"
+
+#: ../include/cat.php:4
+msgid "Result for: "
+msgstr "Resultado para:"
+
+#: ../include/cat.php:9
+msgid "Category Archive: "
+msgstr "Arquivo da Categoria:"
+
+#: ../include/cat.php:14
+msgid "Author Archive: "
+msgstr "Autor Arquivo:"
+
+#: ../include/cat.php:19
+msgid "Tag Archive: "
+msgstr ""
+
+#: ../include/cat.php:81
+msgid "No result found"
+msgstr "Nenhum resultado encontrado"
+
+#: ../include/single-post.php:32
+msgid "Pages:"
+msgstr ""
+
+#: ../include/single-post.php:72
+msgid "Total Score"
+msgstr "total de Pontuação"

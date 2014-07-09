@@ -1,0 +1,58 @@
+/* 
+* Amazium V1.3
+* Copyright 2012, Mike Ballan
+* www.amazium.co.uk
+*/
+
+
+/***** Screen 960px *****/
+.row 								{ margin:0 auto; width:1170px; }
+.row .row 							{ margin:0 -10px 0 -10px; width:auto; display:inline-block; }
+
+/*.row  div{ background:#FFF;} */
+
+
+.grid_1								{ width:55px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_2 							{ width:185px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_3 							{ width:272px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_4 							{ width:342px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_5 							{ width:435px; margin:0 10px 0 10px; float:left; display:inline; }		
+.grid_6 							{ width:565px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_7 							{ width:625px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_8 							{ width:720px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_9								{ width:815px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_10							{ width:945px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_11							{ width:1005px; margin:0 10px 0 10px; float:left; display:inline; }
+.grid_12							{ width:1150px; margin:0 10px 0 10px; float:left; display:inline; }
+
+.offset_1							{ margin-left:120px; }
+.offset_2							{ margin-left:220px; }
+.offset_3 							{ margin-left:320px; }
+.offset_4 							{ margin-left:420px; }
+.offset_5 							{ margin-left:520px; }
+.offset_6 							{ margin-left:620px; }
+.offset_7 							{ margin-left:720px; }
+.offset_8 							{ margin-left:820px; }
+.offset_9							{ margin-left:920px; }
+.offset_10							{ margin-left:1020px; }
+.offset_11							{ margin-left:1120px; }
+
+.show-phone 						{ display:none !important; }
+.show-tablet 						{ display:none !important; }
+.show-screen						{ display:inherit; }
+
+.hide-phone							{ display:inherit !important; }
+.hide-tablet						{ display:inherit !important; }
+.hide-screen						{ display:none !important; }
+
+/***** Clean up *****/
+
+.container:after 					{ content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; } 
+.clearfix:before,
+.clearfix:after,
+.row:before,
+.row:after 							{ content:'\0020'; display:block; visibility:hidden; width:0; height:0; }
+.row:after,	.clearfix:after 		{ clear:both; }
+.row, 
+.clearfix 							{ zoom:1; }
+.clear 								{ clear:both; display:block; visibility:hidden; width:0; height:0;	}
